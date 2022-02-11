@@ -1,0 +1,33 @@
+h1{
+    color: pink;
+}
+
+.frutas{
+    color: powderblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.carnes{
+    color: powderblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.verduras{
+    color: powderblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ol{
+    color: yellowgreen;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: yellowgreen;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    align-content: flex-end;
+}
